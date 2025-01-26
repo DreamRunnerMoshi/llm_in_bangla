@@ -1,0 +1,201 @@
+Question,Subject,Answer,A,B,C,D,DEEP_SEEK,OPEN_AI,GEMINI,LLAMA
+‘আনারস’ এবং ‘চাবি’ শব্দ দুটি বাংলা ভাষা গ্রহণ করেছে-,BANGLA-LANGUAGE,A,পর্তুগিজ ভাষা হতে,আরবি ভাষা হতে,দেশী ভাষা হতে,ওলন্দাজ ভাষা হতে,A,A,A,A
+শুদ্ধ বানান কোনটি?,BANGLA-LANGUAGE,B,মূমুর্ষু,মুমূর্ষু,মূমূর্ষ,মুমূর্ষ,B,B,B,B
+গুরুচণ্ডালী দোষমুক্ত কোনটি?,BANGLA-LANGUAGE,C,শবপোড়া,মড়াদাহ,শবদাহ,শবমড়া,C,A,A,C
+‘কবর’ নাটকটির লেখক-,BANGLA-LITERATURE,C,জসীমউদ্দীন,নজরুল ইসলাম,মুনীর চৌধুরী,দ্বিজেন্দ্রলাল রায়,C,A,A,C
+‘উভয়কূল রক্ষা’ অর্থে ব্যবহৃত প্রবচন কোনটি?,BANGLA-LANGUAGE,C,"কারো পৌষ মাস, কারো সর্বনাস","চাল না চুলো, ঢেঁকী না কুলো","সাপও মরে, লাঠিও না ভাঙ্গে","বোঝার উপর, শাকের আঁটি",C,C,C,C
+শুদ্ধ বাক্য কোনটি?,BANGLA-LANGUAGE,C,দুর্বলবশত অনাথিনী বসে পড়া,দুর্বলতাবশতঃ অনাথিনী বসে পড়ল,দুর্বলতাবশত অনাথা বসে পড়ল,দুর্বলবশত অনাথা বসে পড়ল,B,B,B,B
+ক্রিয়া পদের মূল অংশকে বলা হয়-,BANGLA-LANGUAGE,B,বিভক্তি,ধাতু,প্রত্যয়,কৃৎ,B,B,B,B
+‘রত্নাকর’ শব্দটির সন্ধি বিচ্ছেদ-,BANGLA-LANGUAGE,D,রত্না + কর,রত্ন + কর,রত্না + আকার,রত্ন + আকর,D,A,B,B
+কোন দ্বিরুক্ত শব্দজুটি বহুবচন সংকেত করে?,BANGLA-LANGUAGE,A,পাকা পাকা আম,ছি ছি কি করছ,নরম নরম হাত,উড়ু উড়ু মন,A,A,A,A
+কোন প্রবচন বাক্য ব্যবহারিক দিক হতে সঠিক?,BANGLA-LANGUAGE,B,যত গর্জে তত বৃষ্টি হয় না,অধিক সন্ন্যাসীতে গাজন নষ্ট,নাচতে না জানলে উঠোন ভাঙ্গা,যেখানে বাঘের ভয় সেখানে বিপদ হয়,B,A,A,B
+বাংলায় টি.এস. এলিয়টের কবিতার প্রথম অনুবাদক–,BANGLA-LITERATURE,A,রবীন্দ্রনাথ ঠাকুর,বিষ্ণু দে,সুধীন্দ্রনাথ দত্ত,বুদ্ধদেব বসু,D,C,A,C
+‘অগ্নিবীণা’ কাব্যগ্রন্থে সংকলিত প্রথম কবিতা–,BANGLA-LITERATURE,C,অগ্রপথিক,বিদ্রোহী,প্রলয়োল্লাস,ধূমকেতু,B,A,A,B
+‘শেষের কবিতা’ রবীন্দ্রনাথ রচিত–,BANGLA-LITERATURE,C,কবিতার নাম,গল্প সংকলনের নাম,উপন্যাসের নাম,কাব্য সংকলনের নাম,C,C,A,D
+কোন বাক্যে ‘মাথা’ শব্দটি বুদ্ধি অর্থে ব্যবহৃত?,BANGLA-LANGUAGE,B,তিনিই সমাজের মাথা,মাথা খাটিয়ে কাজ করবে,লজ্জায় আমার মাথা কাটা গেল,মাথা নেই তার মাথা ব্যথা,B,B,B,B
+কোন শব্দে বিদেশি উপসর্গ ব্যবহৃত হয়েছে?,BANGLA-LANGUAGE,D,নিখুঁত,আনমনা,অবহেলা,নিমরাজী,D,B,B,C
+‘আমার ভাইয়ের রক্তে রাঙানো ২১শে ফেব্রুয়ারি’র রচয়িতা কে?,BANGLA-LITERATURE,D,শামসুর রাহমান,আলতাফ মাহমুদ,হাসান হাফিজুর রহমান,আব্দুল গাফ্ফার চৌধুরী,D,D,A,A
+কোনটি তদ্ভব শব্দ?,BANGLA-LANGUAGE,A,চাঁদ,সূর্য,নক্ষত্র,গগন,A,A,A,D
+বাংলায় কোরআন শরীফের প্রথম অনুবাদক কে?,BANGLA-LITERATURE,B,কেশব চন্দ্র সেন,গিরিশচন্দ্র সেন,মাওলানা মনিরুজ্জামান ইসলামাবাদী,মওলানা আকরাম খাঁ,B,C,A,B
+Choose the correct alternative to complete the sentence? ‘He–to see us if he had been able to.’,ENGLISH-LANGUAGE,B,would come,would have come,may have come,may come,B,B,B,B
+Choose the appropriate alternative to complete the sentence. ‘He had a– of fever.’,ENGLISH-LANGUAGE,B,strong attack,severe attack,serious kind,bad attack,B,B,B,B
+Choose the correct sentence.,ENGLISH-LANGUAGE,B,I asked Javed had he passéd,I asked Javed if he had passed,I asked Javed if you had passed,I asked Javed that had he passed,B,B,B,B
+Choose the correct sentence.,ENGLISH-LANGUAGE,B,A few of the three boys got a prize,Each of the three boys got a prize,Every of the three boys got a prize,All of the three boys got a prize,B,D,B,B
+Choose the correct sentence.,ENGLISH-LANGUAGE,B,The man that said that was a fool,The man who said that was a fool,The man that said that was a fool,The man which said that was a fool,B,B,B,B
+Choose the correct answer. How long did you wait?,ENGLISH-LANGUAGE,B,Till lunch time,Till he came,Until six o’clock,Since this morning,B,B,C,C
+What will be correct preposition to complete the sentence? ‘I am not bad ____ tennis’.,ENGLISH-LANGUAGE,B,in,at,about,with,D,B,D,D
+What is the antonym of ‘gentle’?,ENGLISH-LANGUAGE,D,harsh,modest,clever,rude,A,A,A,D
+What is the synonym of ‘Jovial’?,ENGLISH-LANGUAGE,,Jolly,Gay,Jealous,Happy,A,A,A,A
+What is the synonym of ‘Competent’?,ENGLISH-LANGUAGE,C,Circumspect,Discrete,Capable,Prudent,C,C,C,C
+Who is the author of ‘A Farewell to Arms’?,ENGLISH-LITERATURE,D,H. G. Wells,George Orwel,Thomas Hardy,Ernest Hemingway,D,D,D,D
+Who is the author of ‘Animal Farm’?,ENGLISH-LITERATURE,B,Thomas more,George Orwel,Boris Pasternak,Charles Dickens,B,B,B,B
+Who is the author of ‘India Wins Freedom’?,ENGLISH-LITERATURE,C,Mahatma Gandhi,J. L. Nehru,Abul Kalam Azad,Moulana Akram Khan,C,C,B,C
+What kind of noun is ‘Cattle’?,ENGLISH-LANGUAGE,C,Proper,Common,Collective,Material,C,C,C,C
+What kind of noun is ‘Girl’?,ENGLISH-LANGUAGE,B,Proper,Common,Collective,Material,B,B,B,B
+What is the meaning of ‘White Elephant’?,ENGLISH-LANGUAGE,B,An elephant of white colour,A very coslty or troublesome possession,A black marketer,A hoarder,B,B,B,B
+বাংলাদেশ গণপ্রজাতন্ত্রের ঘোষণা ছিলো–,BANGLADESH-AFFAIRS,A,"১৭ এপ্রিল, ১৯৭১","২৬ মার্চ, ১৯৭১","১১ এপ্রিল, ১৯৭১","১০ জানুয়ারি, ১৯৭২",B,A,B,B
+গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান প্রবর্তিত হয়–,BANGLADESH-AFFAIRS,B,"১৭ এপ্রিল, ১৯৯১","১৬ ডিসেস্বর, ১৯৭২","৭ মার্চ, ১৯৭২","২৬ মার্চ, ১৯৭৩",B,B,B,D
+বিখ্যাত সাধক শাহ্ সুলতান বলখীর মাজার কোথায়?,BANGLADESH-AFFAIRS,A,মহাস্থানগড়ে,শাহজাদপুরে,নেত্রকোনায়,রামপালে,C,A,A,B
+বাংলাদেশের লোক শিল্প জাদুঘর কোথায় অবস্থিত?,BANGLADESH-AFFAIRS,C,চট্টগ্রামে,বগুড়ায়,সোনারগাঁওয়ে,রামপালে,C,C,C,C
+বাংলায় ইউরোপীয় বণিকদের মধ্যে বাণিজ্যের উদ্দেশ্যে প্রথম এসেছিল-,BANGLADESH-AFFAIRS,D,ইংরেজরা,ওলন্দজরা,ফরাসিরা,পর্তুগিজরা,D,D,D,D
+বাংলা নববর্ষ পহেলা বৈশাখ চালু করেছিলেন-,BANGLADESH-AFFAIRS,C,লক্ষ্মণ সেন,ইলিয়াস শাহ,আকবর,বিজয় সেন,C,C,A,C
+পাহাড়পুরের বৌদ্ধ বিহারটি কি নামে পরিচিত ছিল?,BANGLADESH-AFFAIRS,A,সোমপুর বিহার,ধর্মপাল বিহার,জগদ্দল বিহার,শ্রী বিহার,A,A,A,Answer: B
+বাংলাদেশে চীনামাটির সন্ধান পাওয়া গেছে–,BANGLADESH-AFFAIRS,A,বিজয়পুরে,রানীগঞ্জে,টেকেরহাটে,বিয়ানী বাজারে,A,A,B,C
+ঢাকা বিশ্ববিদ্যালয় প্রতিষ্ঠিত হয়–,BANGLADESH-AFFAIRS,C,১৮৯৭ সালে,১৯০২ সালে,১৯২১ সালে,১৯০৫ সালে,C,C,C,C
+ঢাকার বিখ্যাত তারা মসজিদ তৈরী করনে–,BANGLADESH-AFFAIRS,C,শায়েস্তা খান,নওয়াব সলিমুল্লাহ,মির্জা আহমেদ জান,খান সাহেব আবুল হাসনাত,C,A,A,C
+পাখি ছাড়া ‘বলাকা’ও ‘দোয়েল’ নামে পরিচিত হচ্ছে-,BANGLADESH-AFFAIRS,A,দু’টি উন্নত জাতের গমশস্য,দু’টি উন্নত জাতের ধানশস্য,দু’টি উন্নত জাতের ভুট্টাশস্য,দু’টি উন্নতজাতের ইক্ষু,B,B,B,B
+"‘অগ্নিশ্বর’, ‘কানাইবাঁসি’, ‘মোহনবাঁশী’ ও ‘বীটজবা’ কি জাতীয় ফলের নাম?",BANGLADESH-AFFAIRS,B,পেয়ারা,কলা,পেঁপে,জামরুল,B,A,A,A
+বাংলায় চিরস্থায়ী বন্দোরস্ত প্রথা প্রবর্তন করা কোন সালে?,BANGLADESH-AFFAIRS,D,১৭০০ সালে,১৭৭২ সালে,১৭৬৫ সালে,১৭৯৩ সালে,D,B,B,D
+কোন মুঘল সম্রাট বাংলার নাম দেন ‘জান্নাতাবাদ’?,BANGLADESH-AFFAIRS,B,বাবর,হুমায়ুন,আকবর,জাহাঙ্গীর,C,C,B,D
+উপমহাদেশীয়দের মধ্যে ঢাকা বিশ্ববিদ্যালয়ের প্রথম ভাইস চ্যান্সেলর-,BANGLADESH-AFFAIRS,D,ড. রমেশচন্দ্র মজুমদার,ড. মাহমুদ হাসান,ড. সৈয়দ মোয়াজ্জেম হোসেন,স্যার এ. এফ. রহমান,A,A,A,A
+১৯৮৮ সালের সিউল অলিম্পিকে বাংলাদেশের কোন ভাস্করের শিল্পকর্ম প্রদর্শনীতে স্থান পায়?,BANGLADESH-AFFAIRS,C,শামীম সিকদার,সৈয়দ আব্দুল্লাহ খালেদ,হামিদুজ্জামান খান,আবদুস সুলতান,B,A,A,B
+ঢাকায় সর্বপ্রথম কবে বাংলার রাজধানী স্থাপিত হয়?,BANGLADESH-AFFAIRS,D,১২০৬ খ্রিঃ,১৩১০ খ্রিঃ,১৫২৬ খ্রিঃ,১৬১০ খ্রিঃ,D,A,B,D
+‘পূর্বাশা’ দ্বীপের অপর নাম–,BANGLADESH-AFFAIRS,C,নিঝুম দ্বীপ,সেন্টমার্টিন দ্বীপ,দক্ষিণ তালপট্টি দ্বীপ,দিয়া দ্বীপ,C,A,B,B
+সার্ক-এর প্রথম শীর্ষ বৈঠক অনুষ্ঠিত হয়–,INTERNATIONAL-AFFAIRS,C,১৯৮৪ সালে,১৯৮৭ সোলে,১৯৮৫ সালে,১৯৮৬ সালে,C,A,A,C
+আরব রাষ্ট্রগুলোর মধ্যে কোনটি বাংলাদেশকে প্রথম স্বীকৃতি দেয়?,INTERNATIONAL-AFFAIRS,A,ইরাক,আলজেরিয়া,সৌদি আরব,জর্ডান,A,A,A,B
+পিএলও-এর সদর দপ্তর–,INTERNATIONAL-AFFAIRS,,তিউনিস,রাবাত,বেনগাজি,মরক্কো,A,B,A,A
+জাতিসংঘের প্রথম মহাসচিব ছিলেন–,INTERNATIONAL-AFFAIRS,B,উ থান্ট,ট্রিগভেলি,দ্যাগ হ্যামারশোল্ড,কুট ওয়াল্ডহেইম,B,B,B,B
+নিরাপত্তা পরিষদের এশীয় আসনে বাংলাদেশের প্রতিদ্বন্দ্বী ছিল–,INTERNATIONAL-AFFAIRS,B,ফিলিপাইন,জাপান,ইন্দোনেশিয়া,থাইল্যান্ড,B,A,A,A
+সাধারণ পরিষদের নিয়মিত অধিবেশন শুরু হয়–,INTERNATIONAL-AFFAIRS,A,সেপ্টেম্বর মাসের তৃতীয় মঙ্গলবার,সেপ্টেম্বর মাসের প্রথম সোমবার,সেপ্টেম্বর মাসের দ্বিতীয় বুধবার,সেপ্টেম্বর মাসের চতুর্থ মঙ্গলবার,A,A,A,A
+বর্তমান জাতিসংঘের সদস্য সংখ্যা–,INTERNATIONAL-AFFAIRS,,১৫৬,১৫৭,১৫৮,১৮৮,D,B,C,D
+ইসলাম সম্মেলন সংস্থার সচিবলায় অবস্থিত–,INTERNATIONAL-AFFAIRS,B,রিয়াদ,জেদ্দা,দামেস্ক,মক্কা,B,B,B,B
+যে দেশ এসডিআই প্রতিরক্ষা কর্মসূচি গ্রহণ করেছে–,INTERNATIONAL-AFFAIRS,C,ব্রিটেন,ফ্রান্স,যুক্তরাষ্ট্র,রাশিয়া,C,C,C,C
+ব্রিটিনের প্রশাসনিক সদর দপ্তরকে বলা হয়–,INTERNATIONAL-AFFAIRS,B,ওয়েস্ট মিনিস্টার অ্যাবে,হোয়াইট হল,মার্বেল চার্চ,বুশ হাউজ,B,B,B,B
+দ্বিতীয় মহাযুদ্ধে জার্মানি আত্মসমর্পণ করে–,INTERNATIONAL-AFFAIRS,C,১৯৪২ সালের নভেম্বর মাসে,১৯৪৩ সালের ফেব্রুয়ারি মাসে,১৯৪৫ সালের মে মাসে,১৯৪৫ সালের সেপ্টেম্বর মাসে,C,C,C,C
+কঙ্গোকে বিদেশি শাসন থেকে মুক্ত করার লড়াইয়ে চিরস্থায়ী নাম–,INTERNATIONAL-AFFAIRS,B,কাশাভুবু,প্যাট্রিক লুমুম্বা,শোম্বে,মবুতু,B,B,B,B
+হিরোশিমায় এটম বোম ফেলা হয়েছিল–,INTERNATIONAL-AFFAIRS,A,১৯৪৫ সালেরর আগস্ট মাসে,১৯৪৫ সালের মে মাসে,১৯৪৫ সালের সেপ্টেম্বর মাসে,১৯৪৪ সালের আগস্ট মাসে,A,A,A,A
+আইএমএফ-এর সদর দপ্তর কোথায়?,INTERNATIONAL-AFFAIRS,A,ওয়াশিংটন,মস্কো,লন্ডন,নিউইয়র্ক,A,A,A,A
+নিকারাগুয়ায় যে বিদ্রোহীদের যুক্তরাষ্ট্র সমর্থন করে তার নাম–,INTERNATIONAL-AFFAIRS,C,ইউনিটা,সান্ডিনিস্টা,কন্ট্রা,সোয়াপো,C,C,C,C
+‘ব্যাবিলনের ঝুলন্ত উদ্যান’ কোন দেশে অবস্থিত?,INTERNATIONAL-AFFAIRS,B,ইরান,ইরাক,মিশর,সিরিয়া,B,B,B,B
+ইতিহাস বিখ্যাত ট্রয় নগরী কোথায়?,INTERNATIONAL-AFFAIRS,C,ইতালি,স্পেন,তুরস্ক,গ্রিস,C,C,D,C
+নিচের কোন সংখ্যাটি মৌলিক?,MATHEMATICAL-REASONING,C,৯১,১৪৩,৪৭,৮৭,C,A,C,C
+কোনো একটি জিনিস নির্মাতা ২০% লাভে ও খুচরা বিক্রেতা ২০% লাভে বিক্রয় করে। যদি ঐ জিনিসের নির্মাণ খরচ ১০০ টাকা হয় তবে খুচরা মূল্য কত?,MATHEMATICAL-REASONING,C,১৪০ টাকা,১২০ টাকা,১৪৪ টাকা,১২৪ টাকা,C,C,C,C
+সমবাহু ত্রিভূজের বাহুর দৈর্ঘ্য যদি ‘a’ হয় তবে ক্ষেত্রফল হবে-,MATHEMATICAL-REASONING,A,\[\mathrm{{\sqrt{৩} \over ৪} a^2}\],\[\mathrm{\sqrt{{{৩} \over ২} a^2}}\],\[\mathrm{{{৩} \over২} a^2}\],\[\mathrm{\sqrt{{{১} \over ২}a^2}}\],A,A,A,A
+১ থেকে ৪৯ পর্যন্ত সংখ্যার গড় কত?,MATHEMATICAL-REASONING,C,২৩,২৪.৫,২৫,২৬.৫,C,B,B,B
+টাকায় তিনটি করে আম ক্রয় করে টাকায় ২টি করে বিক্রয় করলে শতকরা কত লাভ হবে?,MATHEMATICAL-REASONING,A,৫০%,৩৩%,৩০%,৩১%,A,B,A,A
+"ত্রিভুজ ABC এর BE = FE = CF। AEC এর ক্ষেত্রফল ৪৮ বর্গফুট হলে, ত্রিভুজ ABC এর ক্ষেত্রফল কত বর্গফুট?",MATHEMATICAL-REASONING,A,৭২,৬০,৪৮,৬৪,A,A,A,B
+\(\mathrm{a+b=5}\) এবং \(\mathrm{a-b=3}\) হলে ab এর মান কত?,MATHEMATICAL-REASONING,C,2,3,4,5,C,B,A,B
+৬০ লিটার কেরোসিনের ও পেট্রোলের মিশ্রণের অনুপাত ৭ : ৩। ঐ মিশ্রণে কত লিটার পেট্রোল মিশালে অনুপাত ৩ : ৭ হবে ?,MATHEMATICAL-REASONING,B,৭০,৮০,৯০,৯৮,B,B,B,B
+১ হতে ৩০ পর্যন্ত কয়টি মৌলিক সংখ্যা আছে?,MATHEMATICAL-REASONING,C,১১টি,৮টি,১০টি,৯টি,C,A,A,A
+দুটি সংখ্যার গুণফল ১৫৩৬। সংখ্যা দুটোর ল.সা.গু ৯৬ হলে গ.সা.গু. কত?,MATHEMATICAL-REASONING,A,১৬,২৪,৩২,১২,A,A,A,B
+\({.1 \times .01 \times .001 \over.2 \times .02 \times .002}\) এর মান কত?,MATHEMATICAL-REASONING,D,\({1 \over 80}\),\({1 \over 800}\),\({1 \over 8000}\),\({1 \over 8}\),A,C,C,A
+সরল সুদের হার শতকরা কত টাকা হলে যে কোনো মূলধন ৮ বছরে সুদে – আসলে তিনগুণ হবে?,MATHEMATICAL-REASONING,C,১২.৫০ টাকা,২০ টাকা,২৫ টাকা,১৫ টাকা,C,A,C,A
+চিনির মূল্য ২৫% বৃদ্ধি পাওয়াতে একটি পরিবার চিনি খাওয়া এমনিভাবে কমালো যে চিনি বাবদ ব্যয় বৃদ্ধি পেল না। ঐ পরিবার চিনি খাওয়ার খরচ শতকার কত কমিয়েছিল?,MATHEMATICAL-REASONING,C,২২%,২৫%,২০%,৩০%,C,D,A,C
+যদি \({\mathrm{(x-5) (a+x) = x^2-25}}\) তবে \({\mathrm{a}}\) এর মান কত?,MATHEMATICAL-REASONING,B,\({-5}\),\({5}\),\({25}\),\({-25}\),B,C,A,B
+\({\mathrm{a + b + c = 0}}\) হলে \({\mathrm{a^3+ b^3+ c^3}}\) এর মান কত?,MATHEMATICAL-REASONING,B,\({\mathrm{abc}}\),\({\mathrm{3abc}}\),\({\mathrm{6abc}}\),\({\mathrm{9abc}}\),B,B,B,3abc
+ত্রিভুজের একটি কোণ এর অপর দুটি কোণের সমষ্টির সমান হলে ত্রিভুজটি–,MATHEMATICAL-REASONING,A,সমকোণী,স্হুলকোণী,সমবাহু,সূক্ষ্মকোণী,A,A,A,A
+নবায়নযোগ্য শক্তি উৎসের একটি উদাহরণ হলো–,GENERAL-SCIENCE,D,পারমাণবিক জ্বালানি,পীট কয়লা,ফুয়েল সেল,সূর্য,D,D,D,D
+পেসার কুকারে রান্না তাড়াতাড়ি হয় কারণ–,GENERAL-SCIENCE,C,রান্নার জন্য তাপ নয় চাপও কাজে লাগে,বদ্ধ পাত্রে তাপ সংরক্ষিত হয়,উচ্চচাপে তরলের স্ফুটনাংক বৃদ্ধি পায়,সঞ্চিত বাষ্পের তাপ রান্নায় সহায়ক,C,C,A,A
+যে তিনটি মুখ্য বর্ণের সমন্বয়ে অন্যান্য বর্ণ সৃষ্টি করা যায় সেগুলো হলো–,GENERAL-SCIENCE,D,"লাল, হলুদ, নীল","লাল, কমলা, বেগুনী","হলুদ, সবুজ, নীল","লাল, নীল, সবুজ",A,A,A,A
+ভৌগলিকভাবে গুরুত্বপূর্ণ যে কাল্পনিক রেখাটি বাংলাদেশের উপর দিয়ে গিয়েছে তা হলো–,GENERAL-SCIENCE,B,মূল মধ্যরেখা,কর্কটক্রান্তি রেখা,মকরক্রান্তি রেখা,আন্তর্জাতিক তারিখ রেখা,B,B,B,B
+মাছ অক্সিজেন নেয়–,GENERAL-SCIENCE,D,মাঝে মাঝে পানির উপর নাক তুলে,পানিতে অক্সিজেন ও হাইড্রোজেন বিশ্লিষ্ট করে,পটকার মধ্যে জমানো বাতাস হতে,পানির মধ্যে দ্রবীভূত বাতাস হতে,D,D,D,D
+কচুশাক বিশেষভাবে মূল্যবান যে উপাদানের জন্য তা হলো–,GENERAL-SCIENCE,C,ভিটামিন-‘এ’,ভিটামিন-‘সি’,লৌহ,ক্যালসিয়াম,C,C,B,B
+সাধারণ ড্রাইসেলে ইলেকট্রোড হিসাবে থাকে–,GENERAL-SCIENCE,C,তামার দণ্ড ও দস্তারর দণ্ড,তামার পাত ও দস্তার পাত,কার্বন দণ্ড ও দস্তার কৌটা,তামার দণ্ড ও দস্তার কৌটা,C,D,C,C
+দূরের বিদ্যুৎ উৎপাদন কেন্দ্র হতে বিদ্যুৎ নিয়ে আসতে হলে হাইভোল্টেজ ব্যবহার করার কারণ–,GENERAL-SCIENCE,A,এতে বিদ্যুতের অপচয় কম হয়,এতে কমে গিয়েও প্রয়োজনীয় ভোল্টেজ বজায় থাকে,অধিক বিদ্যুৎ প্রবাহ পাওয়া যায়,প্রয়োজনমতো ভোল্টজ কমিয়ে ব্যবহার করা যায়,A,A,A,A
+সংকর ধাতু পিতলের উপাদান হলো–,GENERAL-SCIENCE,B,তামা ও টিন,তামা ও দস্তা,তামা ও নিকেল,তামা ও সীসা,B,B,B,A
+আমাদের দেহকোষ রক্ত হতে গ্রহণ করে–,GENERAL-SCIENCE,A,অক্সিজেন ও গ্লুকোজ,অক্সিজেন ও রক্তের আমিষ,ইউরিয়া ও গ্লুকোজ,এমাইনো এসিড ও কার্বন ডাইঅক্সাইড,A,A,A,A
+পৃথিবীর ঘূর্ণনের ফলে আমরা ছিটকিয়ে পড়ি না–,GENERAL-SCIENCE,B,মহাকর্ষ বলের জন্য,মাধ্যাকর্ষণ বলের জন্য,আমরা স্থির থাকার জন্য,পৃথিবীর সঙ্গে আমাদের আবর্তনের জন্য,B,B,B,A
+নিচের কোনটি জীবাশ্ম জ্বালানি নয়?,GENERAL-SCIENCE,D,পেট্রোলিয়াম,কয়লা,প্রাকৃতিক গ্যাস,বায়োগ্যাস,D,D,D,D
+"বৈদ্যুতিক মটর এমন একটি যন্ত্রকৌশল, যা–",GENERAL-SCIENCE,D,তাপ শক্তিকে যান্ত্রিক শক্তিকে রূপান্তরিত করে,তাপ শক্তিকে তড়িৎ শক্তিতে রূপান্তরিত করে,যান্ত্রিক শক্তিকে তড়িৎ শক্তিতে রূপান্তরিত করে,তড়িৎ শক্তিকে যান্ত্রিক শক্তিতে রূপান্তরিত করে,D,D,D,D
+"যে বায়ু সর্বদাই উচ্চচাপ অঞ্চল হতে নিম্নচাপ অঞ্চলের দিকে প্রবাহিত হয়, তাকে বলা হয়–",GENERAL-SCIENCE,D,আয়ন বায়ু,প্রত্যয়ন বায়ু,মৌসুমী বায়ু,নিয়ত বায়ু,D,D,D,D
+"জলজ উদ্ভিদ সহজে ভাসতে পারে, কারণ–",GENERAL-SCIENCE,B,এরা অনেক ছোট হয়,এদের কাণ্ডে অনেক বায়ু কুঠুরী থাকে,এরা পানিতে জন্মে,এদের পাতা অনেক কম থাকে,B,B,B,B
+‘বৈরাগ্য সাধনে– সে আমার নয়।’ শূন্যস্থান পূরণ করুন।,BANGLA-LITERATURE,B,আনন্দ,মুক্তি,বিশ্বাস,আশ্বাস,A,A,B,Answer: B
+সমাস ভাষাকে-,BANGLA-LANGUAGE,A,সংক্ষেপ করে,বিস্তৃত করে,ভাষারূপ ক্ষুণ্ন করে,অর্থবোধক করে,A,A,A,A
+‘সূর্য’-এর প্রতিশব্দ-,BANGLA-LANGUAGE,D,সুধাংশু,শশাঙ্ক,বিধু,আদিত্য,D,D,D,A
+‘অর্ধচন্দ্র’-এর অর্থ-,BANGLA-LANGUAGE,A,গলাধাক্কা দেয়া,অমাবস্যা,দ্বিতীয়ত,কাস্তে,D,D,B,D
+কোনটি শুদ্ধ?,BANGLA-LANGUAGE,D,সৌজন্নতা,সৌজন্যতা,সৌজনতা,সৌজন্য,D,C,C,B
+বেগম রোকেয়ার রচনা কোনটি?,BANGLA-LITERATURE,D,ভাষা ও সাহিত্য,আয়না,লালসালু,অবরোধবাসিনী,D,D,B,D
+বাংলা গীতি কবিতায় ভোরের পাখি কে?,BANGLA-LITERATURE,A,বিহারীলাল চক্রবর্তী,প্যারীচাঁদ মিত্র,ঈশ্বরচন্দ্র বিদ্যাসাগর,শরৎচন্দ্র চট্রোপাধ্যায়,A,A,A,A
+কোনটি শুদ্ধ বাক্য?,BANGLA-LANGUAGE,A,একটা গোপনীয় কথা বলি,একটি গোপন কথা বলি,একটি গোপন কথা বলি,একটি গুপ্ত কথা বলি,B,B,D,C
+‘শিষ্টাচার’-এর সমার্থক শব্দ কোনটি?,BANGLA-LANGUAGE,B,নিষ্ঠা,সদাচার,সততা,সংযম,B,B,B,B
+‘সংশয়’-এর বিপরীতার্থক শব্দ কোনটি?,BANGLA-LANGUAGE,C,নির্ভয়,বিস্ময়,প্রত্যয়,দ্বিধা,C,C,C,C
+‘ক্ষমার যোগ্য’-এর বাক্য সংকোচন-,BANGLA-LANGUAGE,A,ক্ষমার্হ,ক্ষমাপ্রার্থী,ক্ষমা,ক্ষমাপ্রদ,A,A,A,B
+_____ সেপ্টেম্বর বিশ্ব নিরক্ষরতা দিবস।’ শূন্যস্থান পূরণ করুন।,BANGLADESH-AFFAIRS,A,৮,৬,১০,৫,A,C,B,8
+‘মোস্তফা চরিত’ গ্রন্থের রচয়িতা-,BANGLA-LITERATURE,D,মুহম্মদ আব্দুল হাই,মোঃ বরকতুল্লাহ,ড. মুহম্মদ শহীদুল্লাহ,মওলানা আকরম খাঁ,D,A,A,C
+‘আমার দেখা রাজনীতির পঞ্চাশ বছর’ গ্রন্থটির রচয়িতা-,BANGLA-LITERATURE,C,মুহম্মদ আব্দুল হাই,ড. মুহম্মদ শহীদুল্লাহ,আবুল মনসুর আহমেদ,আতাউর রহমান,C,C,B,C
+পুঁথি সাহিত্যের প্রাচীনতম লেখক-,BANGLA-LITERATURE,C,ভারতচন্দ্র রায়,দৌলত কাজী,সৈয়দ হামজা,আব্দুল হাকিম,B,B,B,B
+‘চাচা কাহিনীর’ লেখক –,BANGLA-LITERATURE,B,সৈয়দ শামসুল হক,সৈয়দ মুজতবা আলী,শওকত ওসমান,ফররুখ আহমেদ,B,B,A,B
+বিভক্তিযুক্ত শব্দ ও ধাতুকে বলে–,BANGLA-LANGUAGE,C,শব্দ,কারক,পদ,ক্রিয়াপদ,C,C,C,C
+‘রাজলক্ষ্মী’ চরিত্রের স্রষ্টা ঔপন্যাসিক-,BANGLA-LITERATURE,B,বঙ্কিমচন্দ্র,শরৎচন্দ্র,তারাশংকর,নজরুল ইসলাম,B,A,A,A
+What is the synonym of ‘Incite’?,ENGLISH-LANGUAGE,A,Instigate,Permit,Urge,Deceive,A,A,A,A
+What is the antonym of ‘Honorary’?,ENGLISH-LANGUAGE,C,Offical,Honorable,Salaried,Literary,C,C,C,C
+What is the verb of the word ‘Ability’?,ENGLISH-LANGUAGE,D,Ableness,Able,Ably,Enable,D,B,D,B
+Who is the poet of the ‘Victorian Age’?,ENGLISH-LANGUAGE,B,Helen Keller,Mathew arnold,Shakespeare,Robert Browning,D,B,B,D
+Who is the author of ‘For Whom the Bell Tolls’?,ENGLISH-LANGUAGE,D,Charles Dickens,Homer,Lord Tennison,Ernest Hemingway,D,D,D,D
+Fill in blank ‘ He has assured me ____ safety’,ENGLISH-LANGUAGE,D,With,At,For,of,D,C,D,D
+‘May Allah help you’ What kind of sentence is this?,ENGLISH-LANGUAGE,A,Optative,Imperative,Assertive,Exclamatory,A,A,A,A
+A rolling stone gathers no moss. What ‘rolling’ is?,ENGLISH-LANGUAGE,C,Gerund,Verbal noun,Participle,Adjective,C,C,B,D
+‘He has been ill ____ Friday last’ Fill in the blank.,ENGLISH-LANGUAGE,A,Since,In,From,On,A,D,C,C
+Which is the noun of the word ‘beautiful’?,ENGLISH-LANGUAGE,B,Beautious,Beauty,Beautifully,Beautify,B,B,B,B
+‘Hold water’ means-,ENGLISH-LANGUAGE,C,Keep water,Drink water,Bear examination,Store water,C,C,C,C
+‘Out and Out’ means–,ENGLISH-LANGUAGE,B,Not at all,Thoroughly,To be last,Man of outside,B,B,B,B
+Choose the correct sentence–,ENGLISH-LANGUAGE,D,Rice is not always happy,The rich is not always happy,The rich is not happy always,The rich are not always happy,D,D,D,D
+Choose the correct sentence–,ENGLISH-LANGUAGE,C,He had been hunged for murder,He has been hunged for murder,He was hanged for murder,He was hunged of murder,C,C,C,C
+‘Syntax’ means–,ENGLISH-LANGUAGE,B,Manner of speech,Sentence building,Supplementary tax,Synchrounizing act,B,B,B,B
+‘Justice delayed is justice denied’ was stated by-,ENGLISH-LITERATURE,C,Disraeli,Emerson,Gladstone,Shakespeare,C,B,A,B
+বাংলাদেশের জাতীয় পতাকার মাপের অনুপাত কত?,BANGLADESH-AFFAIRS,C,৯ : ৫,৯ : ৫,১০ : ৬,৮ : ৬,A,A,A,3:2
+বাংলাদেশের বৃহত্তম নদী কোনটি?,BANGLADESH-AFFAIRS,A,মেঘনা,পদ্মা,ব্রহ্মপুত্র,যমুনা,B,C,C,C
+কোন জেলা তুলা চাষের জন্য সবচেয়ে বেশি উপযোগী?,BANGLADESH-AFFAIRS,,রাজশাহী,ফরিদপুর,রংপুর,যশোর,A,C,A,Б
+ইউরিয়া সারের কাঁচামাল-,BANGLADESH-AFFAIRS,D,অপরিশোধিত তেল,ক্লিংকার,অ্যামোনিয়া,মিথেন গ্যাস,C,C,C,D
+বাসস একটি–,BANGLADESH-AFFAIRS,A,সংবাদ সংস্থার নাম,একটি প্রেস ক্লাবের নাম,একটি খবরের কাগজের নাম,একটি বিদেশী কোম্পানির নাম,A,A,A,A
+বাংলাদেশে শহীদ বুদ্ধিজীবী দিবস পালিত হয়-,BANGLADESH-AFFAIRS,D,২৬ মার্চ,১৬ ডিসেম্বর,২১ ফেব্রুয়ারি,১৪ ডিসেম্বরর,D,D,D,D
+বাংলাদেশের কোন বনভূমি শালবৃক্ষের জন্য বিখ্যাত?,BANGLADESH-AFFAIRS,C,সিলেটের বনভূমি,পার্বত্য চট্টগ্রামের বনভূমি,ভাওয়াল ও মধুপুরের বনভূমি,"খুলনা, বরিশাল ও পটুয়াখালীর বনভূমি",C,B,B,C
+চীন-বাংলাদেশ মৈত্রী সেতু-১ নির্মাণের প্রধান উদ্দেশ্য–,BANGLADESH-AFFAIRS,D,ঢাকা শহরকে নদীর ওপারে বিস্তৃত করা,বাংলাদেশ ও চীনের মধ্যে সুসম্পর্কের স্থায়ী বন্ধন সৃষ্টি করা,ঢাকা-আরিচা রোড যানবাহন চলাচলের চাপ কমানো,দেশের দক্ষিণ অঞ্চলের সাথে ঢাকার পরিবহন ব্যবস্থা উন্নত করা,C,B,B,D
+হরিপুরে তেল আবিষ্কৃত হয়–,BANGLADESH-AFFAIRS,B,১৯৪৭ সালে,১৯৮৬ সালে,১৯৮৫ সালে,১৯৮৪ সালে,D,B,B,C
+মিশুকের স্থপতি কে?,BANGLADESH-AFFAIRS,A,মুস্তফা মনোয়ার,হামিদুর রহমান,শামীম শিকদার,হামিদুজ্জামান খান,A,D,A,D
+বাংলাদেশের কোন জেলায় সবচেয়ে বেশি পাট উৎপন্ন হয়?,BANGLADESH-AFFAIRS,D,রংপুর,ময়মনসিংহ,টাঙ্গাইল,ফরিদপুর,A,A,B,C
+বাংলাদেশের মোট আবাদয্যেগ্য জমির পরিমাণ প্রায় কত?,BANGLADESH-AFFAIRS,,২ কোটি ৪০ লক্ষ একর,২ কোটি ৫০ লক্ষ একর,২ কোটি একর,২ কোটি ২৫ লক্ষ একর,B,B,A,B
+উপকূল হতে বাংলাদেশের অর্থনৈতিক সমুদ্রসীমা কত?,BANGLADESH-AFFAIRS,B,২৫০ নটিক্যাল মাইল,২০০ নটিক্যাল মাইল,২২৫ নটিক্যাল মাইল,১০ নটিক্যাল মাইল,B,A,B,B
+মহাস্থানগড় কোন নদীর তীরে অবস্থিত?,BANGLADESH-AFFAIRS,A,করতোয়া,গঙ্গা,ব্রহ্মপুত্র,মহানন্দা,A,A,A,A
+ঔষধ নীতির প্রধান উদ্দেশ্য হলো–,BANGLADESH-AFFAIRS,A,অপ্রয়োজনীয় এবং ক্ষতিকর ঔষধ প্রস্তুত বন্ধ করা,ঔষধ শিল্পে দেশীয় কাঁচামালের ব্যবহার নিশ্চত করা,ঔষধ শিল্পে দেশীয় শিল্পপতিদের অগ্রাধিকার দেয়া,বিদেশী শিল্পপতিদের দেশীয় কাঁচামাল ব্যবহারে বাধ্য করা,A,A,A,A
+বিকেএসপি হলো–,BANGLADESH-AFFAIRS,A,একটি ক্রীড়া শিক্ষা সংস্থার নাম,একটি সংবাদ সংস্থার নাম,একটি কিশোর ফুটবল টিমের নাম,একটি সঙ্গীত শিক্ষা প্রতিষ্ঠানের নাম,A,A,A,A
+মা ও মনি হলো–,BANGLADESH-AFFAIRS,C,একটি উপন্যাসের নাম,একটি প্রসাধনী শিল্পের নাম,একটি ক্রীড়া প্রতিযোগিতার নাম,একটি গরিব মা ও মেয়ের গল্প কাহিনী,D,D,D,A
+প্রাচীন ‘চন্দ্রদ্বীপ’- এর বর্তমান নাম–,BANGLADESH-AFFAIRS,C,মালদ্বীপ,সন্দ্বীপ,বরিশাল,হাতিয়া,B,A,A,B
+আন্তর্জাতিক আণবিক শক্তি সংস্থা (IAEA) এর সদর দপ্তর–,INTERNATIONAL-AFFAIRS,A,ভিয়েনা,বন,জেনেভা,রোত,A,A,A,A
+জাপানের পার্লামেন্টের নাম–,INTERNATIONAL-AFFAIRS,A,ডায়েট,পিনসাস,নেসেট,শুরা,A,A,A,A
+আমেরিকাকে এশিয়া থেকে পৃথক করেছে কোন প্রণালী?,INTERNATIONAL-AFFAIRS,D,ফ্লোরিডা,পক,জিব্রাল্টার,বেরিং,D,D,D,D
+সাউথ কমিশনের চেয়ারম্যান–,INTERNATIONAL-AFFAIRS,C,জেনারেল সুহার্তো,রবার্ট মুগাবে,জুলিয়াস নায়ারে,ফিডেল ক্যাস্ট্রো,C,C,A,A
+আন্তর্জাতিক পরিবেশ দিবস পালিত হয়–,INTERNATIONAL-AFFAIRS,C,৭ জুলাই,৯ মার্চ,৫ জুন,২১ মে,C,C,C,C
+জাতিসংঘ দিবস পালিত হয়–,INTERNATIONAL-AFFAIRS,A,২৪ অক্টোবর,২৪ আগস্ট,২৪ ডিসেম্বর,২৪ নভেম্বর,A,A,A,A
+নামিবিয়ার রাজধানী–,INTERNATIONAL-AFFAIRS,B,কারাভু,উইন্ডহুক,প্রিটোরিয়া,কোটাভি,B,B,B,B
+ইসলামী উন্নয়ন ব্যাংক ঋণ প্রদান করে–,INTERNATIONAL-AFFAIRS,B,স্বাভাবিক সুদে,বিনা সুদে,অল্প সুদে,অতি সামান্য সুদে,B,B,B,B
+ওডারনীস নদী–,INTERNATIONAL-AFFAIRS,A,পূর্ব জার্মানি ও পোল্যান্ডেরর মধ্যে সীমা নির্ধারক,পশ্চিম জার্মানি ও চেক প্রজাতন্ত্রের মধ্যে সীমা নির্ধারক,পশ্চিম জার্মানি ও পোল্যান্ডের মধ্যে সীমা নির্ধারক,সংযুক্ত জার্মান ও ফ্রান্সের মধ্যে সীমা নির্ধারক,A,C,A,A
+‘হারারে’ এর পুরাতন নাম–,INTERNATIONAL-AFFAIRS,A,সলসবেরি,ফরমোজা,পেট্রোগ্রাড,রোডেসিয়া,B,D,D,A
+পবিত্রভূমি কোনটিকে বলা হয়?,INTERNATIONAL-AFFAIRS,B,প্যালেস্টাইন,জেরুজালেম,জেদ্দা,তায়েফ,B,B,A,A
+এডেন কোন দেশের সমুদ্রবন্দর?,INTERNATIONAL-AFFAIRS,A,ইয়েমেন,কাতার,ওমান,ইরাক,A,A,A,A
+মালদ্বীপের মুদ্রার নাম কি?,INTERNATIONAL-AFFAIRS,D,রুপী,ডলার,পাউন্ড,রুপাইয়া,A,A,D,A
+১৯৯২ সালে বিশ্ব অলিম্পিক অনুষ্ঠিত হয় কোথায়?,INTERNATIONAL-AFFAIRS,A,বার্সালোনা,জুরিখ,বার্লিন,ব্রাসেলস,A,A,A,A
+আফটা \({\mathrm{(AFTA)}}\) বলতে কি বোঝায়–,INTERNATIONAL-AFFAIRS,A,একটি বাণিজ্যিক গোষ্ঠী,পূর্ব আফ্রিকার একটি সংবাদ সংস্থা,একটি বিমান সংস্থা,একটি সামরিক চুক্তি,A,A,A,A
+আন্তর্জাতিক রোটারি সংস্থার প্রতিষ্ঠাতা–,INTERNATIONAL-AFFAIRS,B,\({\mathrm{W. Wilson}}\),\({\mathrm{Paul\ Harris}}\),\({\mathrm{Baden\ Powel}}\),\({\mathrm{H. Wilson}}\),B,B,B,B
+"চালের মূল্য ১২% কমে যাওয়ায় ৬,০০০ টাকায় পূর্বাপেক্ষা ১ কুইন্টাল চাল বেশি পাওয়া যায়। ১ কুইন্টাল চালের বর্তমান মূল্য কত?",MATHEMATICAL-REASONING,C,৭৫০ টাকা,৭০০ টাকা,৭২০ টাকা,৭৫ টাকা,C,A,A,C
+"একটি আয়তাকার ক্ষেত্রের দৈর্ঘ্য বিস্তারের ৩ গুণ। দৈর্ঘ্য ৪৮ মিটার হলে, ক্ষেত্রটির পরিসীমা কত?",MATHEMATICAL-REASONING,A,১২৮ মিটার,১৪৪ মিটার,৬৪ মিটার,৯৬ মিটার,B,A,A,B
+ক ঘন্টায় ১০ কি.মি. এবং খ ঘন্টায় ১৫ কি.মি. বেগে একই সময় একই স্থান থেকে রাজশাহীর পথে রওয়ানা হলো। ক ১০.১০ মিনিটের সময় এবং খ ৯.৪০ মিনিটের সময় রাজশাহী পৌঁছল। রওয়ানা হওয়ার স্থান থেকে রাজশাহীর দূরত্ব কত কি.মি.?,MATHEMATICAL-REASONING,C,২০ কি.মি.,২৫ কি.মি.,১৫ কি.মি.,২৮ কি.মি.,B,A,B,B
+"১৯, ৩৩, ৫১, ৭৩, –––। পরবর্তী সংখ্যাটি কত?",MATHEMATICAL-REASONING,C,৮৫,১২১,৯৯,৯৮,C,A,C,C
+একটি ক্রিকেট দলে যতজন স্ট্যাম্প আউট হলো তার দেড়গুণ কট আউট হলো এবং মোট উইকেটের অর্ধেক বোল্ড আউট হলো। এই দলের কতজন কট আউট হলো?,MATHEMATICAL-REASONING,B,৪ জন,৩ জন,২ জন,৫ জন,B,A,A,B
+একটি বন্দুকের গুলি প্রতি সেকেন্ডে ১৫৪০ ফুট গতিবেগে লক্ষ্যভেদ করে। এক ব্যক্তি বন্দুক ছুঁড়বার ৩ সেকেন্ড পরে লক্ষ্যভেদের শব্দ শুনতে পায়। শব্দের গতি প্রতি সেকেন্ড ১১০০ ফুট। লক্ষ্য বস্তুর দূরত্ব কত?,MATHEMATICAL-REASONING,B,২০২৫ ফুট,১৯২৫ ফুট,১৯৭৫ ফুট,১৮৭৫ ফুট,B,B,A,C
+"একটি বৃত্তের ব্যাসার্ধকে যদি \({\mathrm{r}}\) থেকে বৃদ্ধি করে \({\mathrm{r + n}}\) করা হয়, তবে তার ক্ষেত্রফল দ্বিগুণ হয়। \({\mathrm{r}}\)-এর মান কত?",MATHEMATICAL-REASONING,A,\({\mathrm{n\over \sqrt2-1}}\),\({\mathrm{n + \sqrt2}}\),\({\mathrm{\sqrt{2n}}}\),\({\sqrt {2\mathrm{(n + 1)}}}\),A,A,A,
+\({\mathrm{a-{\{a-(a+1) = }}}\) কত?,MATHEMATICAL-REASONING,D,‍\(\mathrm {a-1}\),‍\(\mathrm {1}\),‍\(\mathrm {a}\),‍\(\mathrm {a+1}\),B,A,A,
+একটি পাত্রে দুধ ও পানির অনুপাত ৫ : ২। যদি পানি অপেক্ষা দুধের পরিমাণ ৬ লিটার বেশি হয় পানির পরিমাণ-,MATHEMATICAL-REASONING,D,১৪ লিটার,৬ লিটার,১০ লিটার,৪ লিটার,D,A,D,
+,MATHEMATICAL-REASONING,C,\({0}\),\({1}\),\({225}\),\({1}\over{225}\),C,A,A,
+ক-এর বেতন খ-এর বেতন অপেক্ষা শতকরা ৩৫ টাকা বেশি হলে খ-এর বেতন ক-এর বেতন অপেক্ষা কত টাকা কম?,MATHEMATICAL-REASONING,B,২৭ টাকা,২৫.৯৩ টাকা,৪০ টাকা,২৫.৫০ টাকা,B,A,B,
+১০টি সংখ্যার যোগফল ৪৬২। এদের প্রথম ৪টির গড় ৫২ এবং শেষের ৫টির গড় ৩৮। পঞ্চাম সংখ্যাটি কত?,MATHEMATICAL-REASONING,B,৬০,৬৪,৬২,৫০,B,B,A,
+"পাশাপাশি দুটি বর্গক্ষেত্রের প্রত্যেক বাহু \({২০}\) ফুট। \({\mathrm{BC=৬, CF = 5}}\) ফুট, \({\mathrm{DE =}}\) কত?",MATHEMATICAL-REASONING,D,১৫ ফুট,১২ ফুট,২০ ফুট,১৮ ফুট,B,A,A,
+যদি \({\mathrm{a^3-b^3=513}}\) এবং \({\mathrm{a - b = 3}}\) হয় তবে \({\mathrm{ab}}\) -এর মান কত?,MATHEMATICAL-REASONING,A,54,35,45,55,A,A,A,
+\({\mathrm{(x+3)(x-3)}}\) কে \({\mathrm{x^2-6}}\) দিয়ে ভাগ করলে ভাগশেষ কত হবে?,MATHEMATICAL-REASONING,D,\({-6}\),\({3}\),\({6}\),\({-3}\),B,A,C,
+২টা ১৫ মিনিটের সময় ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যে কত ডিগ্রি কোণ উৎপন্ন হয়?,MATHEMATICAL-REASONING,B,\(\mathrm{{২৩}^{\circ}}\),\(\mathrm{{২২}{{১}^{\circ}\over{২}}}\),\(\mathrm{{২০}^{\circ}}\),\(\mathrm{{২৩}{{১}^{\circ}\over{২}}}\),B,B,D,
+এক মিটার সমান কত ইঞ্চি?,MATHEMATICAL-REASONING,B,৩৭.৩৯ ইঞ্চি,৩৯.৩৭ ইঞ্চি,৩৯.৪৭ ইঞ্চি,৩৮.৫৫ ইঞ্চি,B,B,A,
+ধানের ফুলে পরাগ সংযোগ ঘটে–,GENERAL-SCIENCE,A,বাতাসের সাহায্যে ঝরে পড়ে,পাতা দ্বারা স্থানান্তরিত হয়ে,কীটপতঙ্গের সাহায্যে,ফুলে ফুলে সংস্পর্শে,A,A,A,
+সমুদ্রপৃষ্ঠে বায়ুর চাপ প্রতি বর্গ সেন্টিমিটারে–,GENERAL-SCIENCE,B,১০ কি. মি.,১০ নিউটন,২৭ কি. মি.,৫ কি. মি.,B,B,B,
+সর্বপ্রথমে যে উফশি ধান এ দেশে চালু হয়ে এখনো বর্তমান রয়েছে তা হলো–,GENERAL-SCIENCE,A,ইরি-৮,ইরি-১,ইরি-২০,ইরি-৩,B,B,A,
+ইস্পাত সাধারণ লোহা থেকে ভিন্ন। কারণ এতে–,GENERAL-SCIENCE,B,বিশেষ ধরনের আকরিক ব্যবহার করা হয়েছে,সুনিয়ন্ত্রিত পরিমাণ কার্বন রয়েছে,সুনিয়ন্ত্রিত পরিমাণ কার্বন রয়েছে,সব বিজাতীয় দ্রব্য বের করে দেয়া হয়েছে,B,B,B,
+প্রাকৃতিক গ্যাসের প্রধান উপাদান হলো–,GENERAL-SCIENCE,B,নাইট্রোজেন গ্যাস,মিথেন,হাইড্রোজেন গ্যাস,কার্বন মনোক্সাইড,B,B,B,
+মৌলিক পদার্থের ক্ষুদ্রতম কণা যা রাসায়নিক প্রক্রিয়ায় অংশগ্রহণ করে তাকে বলা হয়–,GENERAL-SCIENCE,A,পরমাণু,ইলেকট্রন,অণু,প্রোটন,A,A,A,
+সমুদ্র স্রোতের অন্যতম কারণ–,GENERAL-SCIENCE,A,বায়ু প্রবাহের প্রভাব,সমুদ্রের পানিতে তাপ পরিচালনা,সমু্দ্রের পানিতে ঘনত্বের তারতম্য,সমুদ্রের ঘূর্ণিঝড়,A,C,,
+কাজ করার সামর্থ্যকে বলে–,GENERAL-SCIENCE,C,ক্ষমতা,কাজ,শক্তি,বল,A,C,,
+রংধনু সৃষ্টির বেলায় পানির কণাগুলো–,GENERAL-SCIENCE,D,দর্পণের কাজ করে,আতষীকাচের কাজ করে,লেন্সের কাজ করে,প্রিজমের কাজ করে,D,D,D,
+কাচ তৈরির প্রধান কাঁচামাল হলো–,GENERAL-SCIENCE,B,জিপসাম,বালি,সাজি মাটি,চুনাপাথর,B,B,B,
+কম্পিউটারের সফটওয়্যার বলতে বুঝানো হয়–,COMPUTER-AND-INFORMATION-TECHNOLOGY,A,এর প্রোগ্রাম বা কর্ম পরিকল্পনার কৌশল,তথ্য দেয়া ও তথ্য নেয়ার অংশ বিশেষ,যেসব অংশ মুদ্রায়িত অবস্থায় থাকে,কম্পিউটার তৈরির নকশা,A,A,A,
+মাইক্রোওয়েভের মাধ্যমে যে টেলিযোগাযোগ ব্যবস্থা আমাদের দেশে প্রচলিত তাতে মাইক্রোওয়েভ অধিকাংশ দূরত্ব অতিক্রম করে–,COMPUTER-AND-INFORMATION-TECHNOLOGY,A,ওয়েভ গাইডের মধ্য দিয়ে,ভূমি ও আয়নোস্ফিয়ারের মধ্যে প্রতিফলন হতে হবে,বিশেষ ধরনের ক্যাবলের মধ্য দিয়ে,খোলামেলা জায়গার মধ্য দিয়ে সরল রেখায়,D,D,D,
+মানুষের ক্রোমোজোমের সংখ্যা কত?,GENERAL-SCIENCE,C,২৪ জোড়া,২৬ জোড়া,২৩ জোড়া,২৫ জোড়া,C,C,C,
+সৌরকোষের বিদ্যুৎ রাতেও ব্যবহার করা সম্ভব যদি এর সঙ্গে থাকে–,GENERAL-SCIENCE,C,ট্রান্সফরমার,জেনারেটর,ষ্টোরেজ ব্যাটারি,ক্যাপামিটার,C,C,C,
+বৈদ্যুতিক পাখা ধীরে ধীরে ঘুরলে বিদ্যুৎ খরচ–,GENERAL-SCIENCE,A,একই হয়,বেশি হয়,কম হয়,খুব কম হয়,A,C,B,
