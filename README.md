@@ -26,14 +26,14 @@ The dataset consists of **3000 multiple-choice questions** with four options eac
 ### Example Question
 
 ```plaintext
-Question: ‘আনারস’ এবং ‘চাবি’ শব্দ দুটি বাংলা ভাষা গ্রহণ ...
+Question: নিচের কোন ভগ্নাংশটি \(\mathrm {২\over ৩}\) হতে বড়?
 
-A: পর্তুগিজ ভাষা হতে
-B: আরবি ভাষা হতে
-C: দেশী ভাষা হতে
-D: ওলন্দাজ ভাষা হতে
+A: \(\mathrm {৩৩\over ৫০}\)
+B: \(\mathrm {৮\over ১১}\)
+C: \(\mathrm {৩\over ৫}\)
+D: \(\mathrm {১৩\over ২৭}\)
 
-Correct Answer: A
+Correct Answer: B
 ```
 
 ### Subjects Covered
