@@ -78,7 +78,7 @@ Accuracy = (Number of Correct Answers / Total Questions) * 100
 
 ### Overall Accuracy
 
-![alt text](<Screenshot 2025-01-26 at 11.54.30 PM-1.png>)
+![alt text](<Screenshot 2025-01-26 at 11.54.30 PM-1.png> =250x)
 
 | Model       | Accuracy (%) |
 |-------------|--------------|
@@ -91,7 +91,7 @@ Accuracy = (Number of Correct Answers / Total Questions) * 100
 ### Subject-Wise Accuracy
 
 
-![alt text](<Screenshot 2025-01-26 at 11.54.14 PM-1.png>)
+![alt text](<Screenshot 2025-01-26 at 11.54.14 PM-1.png> =250x)
 
 | Subject                        | DEEP_SEEK | OPEN_AI | GEMINI  | LLAMA   |
 |--------------------------------|-----------|---------|---------|---------|
