@@ -123,18 +123,6 @@ Accuracy = (Number of Correct Answers / Total Questions) * 100
    git clone https://github.com/your_username/bangla-llm-evaluation.git
    ```
 
-2. Navigate to the project directory:
-   ```bash
-   cd bangla-llm-evaluation
-   ```
-
-3. Run the analysis (requires Python):
-   ```bash
-   python code/run_analysis.py
-   ```
-
-4. View the results in the `results/` directory.
-
 ## Findings
 
 - **DEEP_SEEK** is the most accurate model for Bangla questions, achieving an overall accuracy of **79.50%**.
