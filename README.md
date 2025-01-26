@@ -2,6 +2,14 @@
 
 This repository contains the results and methodology of an experiment to evaluate the accuracy of various large language models (LLMs) in answering multiple-choice questions in Bangla. The dataset consists of questions from Bangladesh Civil Service (BCS) exams, a popular and rigorous exam that covers a wide range of topics.
 
+## Overall Result: 
+
+![alt text](<Screenshot 2025-01-26 at 11.54.30 PM-1.png>)
+
+## Accuracy with different Subject 
+
+![alt text](<Screenshot 2025-01-26 at 11.54.14 PM-1.png>)
+
 ## Objective
 
 The main goal of this project is to measure and compare the accuracy of different LLMs in understanding and answering Bangla-language questions, as well as questions on topics specific to Bangladesh. The tested models include:
@@ -78,8 +86,6 @@ Accuracy = (Number of Correct Answers / Total Questions) * 100
 
 ### Overall Accuracy
 
-![alt text](<Screenshot 2025-01-26 at 11.54.30 PM-1.png> =250x)
-
 | Model       | Accuracy (%) |
 |-------------|--------------|
 | DEEP_SEEK   | 79.50        |
@@ -90,8 +96,6 @@ Accuracy = (Number of Correct Answers / Total Questions) * 100
 
 ### Subject-Wise Accuracy
 
-
-![alt text](<Screenshot 2025-01-26 at 11.54.14 PM-1.png> =250x)
 
 | Subject                        | DEEP_SEEK | OPEN_AI | GEMINI  | LLAMA   |
 |--------------------------------|-----------|---------|---------|---------|
