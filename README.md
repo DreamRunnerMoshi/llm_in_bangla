@@ -4,11 +4,11 @@ This repository contains the results and methodology of an experiment to evaluat
 
 ## Overall Result: 
 
-![alt text](<Screenshot 2025-01-27 at 12.29.06 AM.png>)
+![alt text](</resources/overall_accuracy.png>)
 
 ## Accuracy with different Subject 
 
-![alt text](<Screenshot 2025-01-27 at 12.28.55 AM.png>)
+![alt text](</resources/comparison_different_subject.png>)
 
 ## Objective
 
