@@ -1,6 +1,6 @@
-#Building a Bangla Benchmark Dataset for Evaluating and Analyzing LLM Accuracy
+# Building a Bangla Benchmark Dataset for Evaluating and Analyzing LLM Accuracy
 
-# Accuracy Analysis of LLMs on Bangla Q/A 
+## Accuracy Analysis of LLMs on Bangla Q/A 
 
 This repository contains the results and methodology of an experiment to evaluate the accuracy of various large language models (LLMs) in answering multiple-choice questions in Bangla. The dataset consists of questions from Bangladesh Civil Service (BCS) exams, a popular and rigorous exam that covers a wide range of topics.
 
