@@ -21,7 +21,7 @@ The main goal of this project is to measure and compare the accuracy of differen
 3. **GEMINI**
 4. **LLAMA**
 
-## Dataset
+## Dataset Analysis
 
 The dataset consists of **3000 multiple-choice questions** with four options each, sourced from BCS exam question banks. For the purpose of this experiment, a subset of **200 questions** was used for initial testing.
 
