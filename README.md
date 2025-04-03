@@ -1,4 +1,4 @@
-# Building a Bangla Benchmark Dataset for Evaluating and Analyzing LLM Accuracy
+# Building a Bangla Benchmark Dataset to Evaluate LLM and Accuracy Analysis of Popular LLMs
 
 ## Accuracy Analysis of LLMs on Bangla Q/A 
 
