@@ -1,0 +1,349 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{cite}
+\usepackage{geometry}
+\usepackage{float}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{longtable}
+
+\geometry{margin=1in}
+
+\title{Evaluating Large Language Models on Bangla Language Understanding: A Comprehensive Analysis Using Bangladesh Civil Service Examination Questions}
+
+\author{
+    DreamRunnerMoshi\\
+    \texttt{dreamrunnermoshi@example.com}
+}
+
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This paper presents a comprehensive evaluation of four state-of-the-art Large Language Models (LLMs) on Bangla language understanding and reasoning tasks. We developed a benchmark dataset consisting of 3,000 multiple-choice questions from Bangladesh Civil Service (BCS) examinations spanning nine academic subjects. Our evaluation focused on comparing the performance of DeepSeek, OpenAI GPT, Google Gemini, and Meta LLaMA models on a subset of 200 carefully selected questions. The results demonstrate significant performance variations across models and subjects, with DeepSeek achieving the highest overall accuracy of 79.50\%, followed by OpenAI (61.50\%), Gemini (59.50\%), and LLaMA (52.50\%). Subject-wise analysis reveals particular challenges in mathematical reasoning and domain-specific knowledge areas. This study contributes to the understanding of LLM capabilities in low-resource languages and provides insights for developing more effective Bangla language processing systems.
+\end{abstract}
+
+\section{Introduction}
+
+Large Language Models (LLMs) have demonstrated remarkable capabilities in natural language understanding and generation across various languages and domains. However, most research and development efforts have primarily focused on high-resource languages, particularly English, leaving significant gaps in our understanding of LLM performance on low-resource languages such as Bangla (Bengali).
+
+Bangla, spoken by over 300 million people worldwide, represents one of the most widely spoken languages globally, yet it remains underrepresented in the development and evaluation of modern language models. The linguistic complexity of Bangla, with its rich morphology, complex script, and cultural nuances, presents unique challenges for automated language processing systems.
+
+This research addresses the critical need for systematic evaluation of LLM performance on Bangla language tasks. We present a comprehensive benchmarking study using questions from Bangladesh Civil Service (BCS) examinations, which provide a standardized and culturally relevant assessment framework. BCS examinations are highly competitive and cover diverse academic subjects, making them an ideal benchmark for evaluating comprehensive language understanding and reasoning capabilities.
+
+\subsection{Research Objectives}
+
+The primary objectives of this study are:
+
+\begin{enumerate}
+    \item To develop a standardized benchmark dataset for evaluating LLM performance on Bangla language tasks
+    \item To compare the performance of leading LLMs on Bangla language understanding and reasoning
+    \item To identify subject-specific strengths and weaknesses across different models
+    \item To provide insights for improving LLM capabilities in Bangla language processing
+\end{enumerate}
+
+\subsection{Contributions}
+
+This work makes the following key contributions:
+
+\begin{enumerate}
+    \item A curated dataset of 3,000 BCS examination questions covering nine academic subjects
+    \item Comprehensive evaluation of four state-of-the-art LLMs on Bangla language tasks
+    \item Detailed analysis of model performance across different subject domains
+    \item Insights into the challenges and opportunities for Bangla language processing with LLMs
+\end{enumerate}
+
+\section{Related Work}
+
+The evaluation of Large Language Models has been an active area of research, with numerous benchmarks developed for various languages and tasks. Most existing work has focused on English language evaluation using datasets such as GLUE \cite{wang2018glue}, SuperGLUE \cite{wang2019superglue}, and more recently, comprehensive evaluation suites like HELM \cite{liang2022holistic}.
+
+For multilingual evaluation, several benchmarks have been proposed, including XNLI \cite{conneau2018xnli} for cross-lingual natural language inference and XTREME \cite{hu2020xtreme} for cross-lingual transfer evaluation. However, these benchmarks often provide limited coverage for Bangla language tasks and may not capture the full complexity of language-specific challenges.
+
+Recent work on Bangla language processing has included the development of pre-trained models such as BanglaBERT \cite{sarker2020banglabert} and various downstream task evaluations. However, comprehensive evaluation of modern LLMs on Bangla language understanding remains limited, particularly using culturally relevant and standardized assessment frameworks.
+
+The use of examination questions for LLM evaluation has gained attention in recent years, with studies using standardized tests such as SAT, GRE, and various professional examinations. This approach provides several advantages, including standardized difficulty levels, diverse topic coverage, and real-world relevance.
+
+\section{Methodology}
+
+\subsection{Dataset Construction}
+
+Our benchmark dataset consists of multiple-choice questions extracted from Bangladesh Civil Service (BCS) examinations spanning from the 10th to 42nd BCS cycles. The BCS examination is a highly competitive recruitment test for civil service positions in Bangladesh, covering a comprehensive range of academic subjects.
+
+\subsubsection{Data Collection and Processing}
+
+The initial dataset comprised 3,000 questions covering nine distinct subject areas:
+
+\begin{enumerate}
+    \item Bangla Language
+    \item Bangla Literature
+    \item Bangladesh Affairs
+    \item Computer and Information Technology
+    \item English Language
+    \item English Literature
+    \item General Science
+    \item International Affairs
+    \item Mathematical Reasoning
+\end{enumerate}
+
+Each question follows a standardized format with four multiple-choice options (A, B, C, D) and a single correct answer. The questions were extracted, cleaned, and formatted to ensure consistency and quality.
+
+For this initial evaluation, we selected a representative subset of 200 questions distributed across all subject areas to ensure comprehensive coverage while maintaining manageable computational costs.
+
+\subsubsection{Data Quality Assurance}
+
+To ensure data quality, we implemented several quality control measures:
+
+\begin{itemize}
+    \item Manual review of question formatting and correctness
+    \item Verification of answer keys against official BCS sources
+    \item Standardization of character encoding for proper Bangla text representation
+    \item Removal of questions with formatting errors or ambiguous content
+\end{itemize}
+
+\subsection{Model Selection}
+
+We evaluated four prominent Large Language Models representing different architectural approaches and training methodologies:
+
+\begin{enumerate}
+    \item \textbf{DeepSeek}: A recent model known for strong reasoning capabilities
+    \item \textbf{OpenAI GPT}: Representing the GPT family of models
+    \item \textbf{Google Gemini}: Google's multimodal language model
+    \item \textbf{Meta LLaMA}: Meta's open-source language model family
+\end{enumerate}
+
+\subsection{Evaluation Protocol}
+
+\subsubsection{Prompt Engineering}
+
+To maximize model performance and ensure fair comparison, we developed a standardized prompt structure. Each model was provided with a system prompt to establish context and capabilities:
+
+\begin{quote}
+\textit{"You are a world-class general knowledge expert with a very high IQ. You understand Bangla and English languages and can do complex calculations and find answers."}
+\end{quote}
+
+Each question was then presented using the following format:
+
+\begin{quote}
+\textit{Question: \{question\}\\
+A: \{option\_1\}\\
+B: \{option\_2\}\\
+C: \{option\_3\}\\
+D: \{option\_4\}\\
+\\
+Please provide the answer inside <Answer>YOUR ANSWER HERE</Answer>. Answer will be ONLY A/B/C/D, no other explanation is required.}
+\end{quote}
+
+\subsubsection{Scoring Methodology}
+
+Model responses were evaluated using exact match accuracy against the ground truth answers. The accuracy was calculated as:
+
+\begin{equation}
+\text{Accuracy} = \frac{\text{Number of Correct Answers}}{\text{Total Questions}} \times 100
+\end{equation}
+
+We computed both overall accuracy across all subjects and subject-specific accuracy to identify domain-specific performance patterns.
+
+\section{Results}
+
+\subsection{Overall Performance}
+
+Figure \ref{fig:overall_accuracy} and Table \ref{tab:overall_results} present the overall accuracy results for all four evaluated models. DeepSeek achieved the highest performance with 79.50\% accuracy, significantly outperforming other models. OpenAI ranked second with 61.50\%, followed by Gemini (59.50\%) and LLaMA (52.50\%).
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{resources/overall_accuracy.png}
+\caption{Overall Accuracy Comparison of Large Language Models on Bangla Language Tasks}
+\label{fig:overall_accuracy}
+\end{figure}
+
+\begin{table}[H]
+\centering
+\caption{Overall Accuracy Results}
+\label{tab:overall_results}
+\begin{tabular}{lc}
+\toprule
+\textbf{Model} & \textbf{Accuracy (\%)} \\
+\midrule
+DeepSeek & 79.50 \\
+OpenAI & 61.50 \\
+Gemini & 59.50 \\
+LLaMA & 52.50 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Subject-wise Performance Analysis}
+
+Figure \ref{fig:subject_comparison} illustrates the performance differences across subject areas, while Table \ref{tab:subject_results} provides detailed breakdown of performance across all nine subject areas. The results reveal significant variation in model capabilities across different domains.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=1.0\textwidth]{resources/comparison_different_subject.png}
+\caption{Subject-wise Accuracy Comparison Across Different Academic Domains}
+\label{fig:subject_comparison}
+\end{figure}
+
+\begin{table}[H]
+\centering
+\caption{Subject-wise Accuracy Results (\%)}
+\label{tab:subject_results}
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Subject} & \textbf{DeepSeek} & \textbf{OpenAI} & \textbf{Gemini} & \textbf{LLaMA} \\
+\midrule
+Bangla Language & 85.71 & 61.90 & 61.90 & 57.14 \\
+Bangla Literature & 71.43 & 42.86 & 21.43 & 42.86 \\
+Bangladesh Affairs & 56.76 & 40.54 & 40.54 & 43.24 \\
+Computer and IT & 50.00 & 50.00 & 50.00 & 0.00 \\
+English Language & 85.71 & 78.57 & 78.57 & 75.00 \\
+English Literature & 100.00 & 75.00 & 50.00 & 75.00 \\
+General Science & 89.29 & 82.14 & 78.57 & 35.71 \\
+International Affairs & 87.88 & 78.79 & 75.76 & 78.79 \\
+Mathematical Reasoning & 81.82 & 42.42 & 48.48 & 33.33 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Key Findings}
+
+\subsubsection{Language-specific Performance}
+
+The results demonstrate interesting patterns in language-specific performance:
+
+\begin{itemize}
+    \item \textbf{Bangla Language}: DeepSeek significantly outperformed other models (85.71\% vs. 57.14-61.90\% for others)
+    \item \textbf{English Language}: Performance was more consistent across models, with all achieving above 75\% accuracy
+    \item \textbf{Literature subjects}: DeepSeek excelled in English Literature (100\%) but showed more moderate performance in Bangla Literature (71.43\%)
+\end{itemize}
+
+\subsubsection{Domain-specific Challenges}
+
+Several subjects presented particular challenges:
+
+\begin{itemize}
+    \item \textbf{Computer and IT}: LLaMA completely failed in this domain (0\%), while other models achieved only 50\% accuracy
+    \item \textbf{Mathematical Reasoning}: Despite DeepSeek's strong performance (81.82\%), other models struggled significantly
+    \item \textbf{Bangladesh Affairs}: All models showed relatively lower performance, suggesting challenges with culturally specific knowledge
+\end{itemize}
+
+\subsubsection{Model-specific Observations}
+
+\begin{itemize}
+    \item \textbf{DeepSeek}: Demonstrated superior performance across most subjects, particularly excelling in scientific and mathematical domains
+    \item \textbf{OpenAI}: Showed consistent but moderate performance across subjects
+    \item \textbf{Gemini}: Similar overall performance to OpenAI but with notable weaknesses in literature
+    \item \textbf{LLaMA}: Struggled significantly with technical subjects and mathematical reasoning
+\end{itemize}
+
+\section{Discussion}
+
+\subsection{Performance Variations and Implications}
+
+The significant performance gap between DeepSeek and other models suggests that model architecture, training data composition, and fine-tuning approaches play crucial roles in Bangla language understanding. DeepSeek's superior performance across most subjects indicates better multilingual capabilities and reasoning skills.
+
+\subsection{Challenges in Low-resource Language Processing}
+
+The results highlight several challenges specific to Bangla language processing:
+
+\begin{enumerate}
+    \item \textbf{Cultural Knowledge}: Lower performance in Bangladesh Affairs suggests that models struggle with culturally specific information that may not be well-represented in training data
+    
+    \item \textbf{Script and Encoding}: Bangla's complex script and character combinations may pose challenges for models not specifically optimized for this writing system
+    
+    \item \textbf{Mathematical Reasoning in Bangla}: The varying performance in mathematical reasoning suggests that language-specific mathematical notation and terminology present additional complexity
+\end{enumerate}
+
+\subsection{Implications for Real-world Applications}
+
+These findings have important implications for deploying LLMs in Bangla language applications:
+
+\begin{itemize}
+    \item Educational technology systems should account for subject-specific performance variations
+    \item Domain-specific fine-tuning may be necessary for applications requiring high accuracy in particular subjects
+    \item Cross-lingual transfer learning approaches should consider the unique characteristics of Bangla language structure
+\end{itemize}
+
+\subsection{Limitations}
+
+Several limitations should be considered when interpreting these results:
+
+\begin{enumerate}
+    \item The evaluation was conducted on a subset of 200 questions, which may not capture the full complexity of each subject area
+    \item The multiple-choice format may not fully assess deeper understanding and reasoning capabilities
+    \item Model versions and specific configurations may impact reproducibility
+    \item The evaluation focused on accuracy without considering response confidence or reasoning quality
+\end{enumerate}
+
+\section{Future Work}
+
+Based on our findings, we identify several directions for future research:
+
+\subsection{Dataset Expansion}
+
+\begin{itemize}
+    \item Expand evaluation to the complete 3,000-question dataset
+    \item Include additional question types beyond multiple-choice format
+    \item Develop domain-specific benchmarks for areas showing significant performance gaps
+\end{itemize}
+
+\subsection{Model Improvement}
+
+\begin{itemize}
+    \item Investigate fine-tuning approaches for improving Bangla language performance
+    \item Explore prompt engineering techniques optimized for Bangla language structure
+    \item Develop hybrid approaches combining multiple models for different subject areas
+\end{itemize}
+
+\subsection{Evaluation Methodology}
+
+\begin{itemize}
+    \item Implement human evaluation studies to assess response quality beyond accuracy
+    \item Develop metrics for evaluating reasoning processes and explanation quality
+    \item Create cross-lingual evaluation frameworks for comparing performance across languages
+\end{itemize}
+
+\section{Conclusion}
+
+This study presents the first comprehensive evaluation of state-of-the-art Large Language Models on Bangla language understanding using a standardized, culturally relevant benchmark. Our results demonstrate significant performance variations across models and subject areas, with DeepSeek achieving superior performance (79.50\% accuracy) compared to OpenAI (61.50\%), Gemini (59.50\%), and LLaMA (52.50\%).
+
+The subject-wise analysis reveals important insights into the challenges of Bangla language processing, particularly in areas requiring cultural knowledge and mathematical reasoning. These findings contribute to our understanding of LLM capabilities in low-resource languages and provide a foundation for developing more effective Bangla language processing systems.
+
+The benchmark dataset and evaluation framework developed in this study provide valuable resources for the research community and establish a baseline for future improvements in Bangla language understanding. As LLMs continue to evolve, this evaluation framework will serve as an important tool for measuring progress and identifying areas requiring focused development efforts.
+
+Our work demonstrates the importance of language-specific evaluation and the need for continued research in multilingual language model development. The significant performance gaps observed across models and subjects highlight both the challenges and opportunities in developing more inclusive and effective language technologies for global users.
+
+\bibliographystyle{plain}
+\begin{thebibliography}{9}
+
+\bibitem{wang2018glue}
+Wang, A., Singh, A., Michael, J., Hill, F., Levy, O., \& Bowman, S. R. (2018). GLUE: A multi-task benchmark and analysis platform for natural language understanding. \textit{arXiv preprint arXiv:1804.07461}.
+
+\bibitem{wang2019superglue}
+Wang, A., Pruksachatkun, Y., Nangia, N., Singh, A., Michael, J., Hill, F., ... \& Bowman, S. R. (2019). SuperGLUE: A stickier benchmark for general-purpose language understanding systems. \textit{Advances in neural information processing systems}, 32.
+
+\bibitem{liang2022holistic}
+Liang, P., Bommasani, R., Lee, T., Tsipras, D., Soylu, D., Yasunaga, M., ... \& Koreeda, Y. (2022). Holistic evaluation of language models. \textit{arXiv preprint arXiv:2211.09110}.
+
+\bibitem{conneau2018xnli}
+Conneau, A., Rinott, R., Lample, G., Williams, A., Bowman, S. R., Schwenk, H., \& Stoyanov, V. (2018). XNLI: Evaluating cross-lingual sentence representations. \textit{arXiv preprint arXiv:1809.05053}.
+
+\bibitem{hu2020xtreme}
+Hu, J., Ruder, S., Siddhant, A., Neubig, G., Firat, O., \& Johnson, M. (2020). XTREME: A massively multilingual multi-task benchmark for evaluating cross-lingual generalisation. \textit{International Conference on Machine Learning}.
+
+\bibitem{sarker2020banglabert}
+Sarker, S., Dey, S. K., \& Islam, M. S. (2020). BanglaBERT: Language model pretraining and benchmarks for low-resource language understanding evaluation in Bangla. \textit{arXiv preprint arXiv:2101.00204}.
+
+\end{thebibliography}
+
+\end{document}
